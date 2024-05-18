@@ -1,6 +1,6 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYwMjU0MTQsIm5iZiI6MTcxNjAyNTExNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE4VDA5MzgzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAyMDIxZTc4MDU4YzJiM2M3OTZiNTkwMDZmYzg1NTg3M2E2NDg4NDA1Y2EyODEyYTI5OTQxNGQ0OTEzYmEzNzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9bF8pfjrdLYqJEvTRgB5VaMOSFkeQ7OCtP_Q6FYWx8s)](https://vishwa1000.github.io/Portfolio/)
 <h1 align="center">Hi 👋, I'm Vishwa</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vishwa1000&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa1000" />
