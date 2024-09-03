@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on **innovative projects that solve real-world problems**
 - 💬 Ask me about **Python,C , C++ and SQL**
 - 📫 How to reach me: **vishwamurali99@gmail.com**
-- 📄 Know about my experiences [here](https://vishwa1000.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
