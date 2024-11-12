@@ -1,5 +1,4 @@
-[![MasterHead](banner.png)
-<h1 align="center">Hi 👋, I'm Vishwa</h1>
+![MasterHead](banner.png)
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 <p align="left">
@@ -7,7 +6,7 @@
 </p>
 
 - 🔭 I have completed my B.E in **Computer Science and Engineering** from **S.A.Engineering College**
-- 🌱 I’m currently learning **full-stack development**
+- 🌱 I’m currently learning **Cloud based technology**
 - 👯 I’m looking to collaborate on **innovative projects that solve real-world problems**
 - 💬 Ask me about **Python,C , C++ and SQL**
 - 📫 How to reach me: **vishwamurali99@gmail.com**
