@@ -10,7 +10,7 @@
 - 🔭 I have completed my B.E in **Computer Science and Engineering** from **S.A.Engineering College**
 - 🌱 I’m currently learning **Cloud based technology**
 - 👯 I’m looking to collaborate on **innovative projects that solve real-world problems**
-- 💬 Ask me about **Python,C , C++ and SQL**
+- 💬 Ask me about **AWS, Python, C, C++ and SQL**
 - 📫 How to reach me: **vishwamurali99@gmail.com**
 
 <!--horizontal divider(gradiant)-->
